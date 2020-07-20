@@ -8,7 +8,7 @@ import re
 from os.path import join, getsize
 import time
 ###################################
-#jazhu@hillstonenet.com
+#393620170@qq.com
 #用于接收syslog日志，并将日志存储为文本文件
 #v0.7
 #2019.01.17
